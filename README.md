@@ -5,5 +5,6 @@ This bot takes each pdf file in Input folder as an input and extracts some infor
 These info will be saved to the xlsx file which provided within the project folder.
 
 If successful, the pdf file will be moved to "Output/Successful" directory. Else, will be moved to "Output/Failed".
-
- ("Output/Successful" and "Output/Failed" directories must be created before initial run)
+("Output/Successful" and "Output/Failed" directories must be created before initial run)
+ 
+To speed up the robot, change delay values from project settings: delay before = 0.1, delay after = 0.05
