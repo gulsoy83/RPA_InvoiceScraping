@@ -8,3 +8,5 @@ If successful, the pdf file will be moved to "Output/Successful" directory. Else
 ("Output/Successful" and "Output/Failed" directories must be created before initial run)
  
 To speed up the robot, change delay values from project settings.
+
+For further instructions in Turkish, check PDFScraper.pdf.
